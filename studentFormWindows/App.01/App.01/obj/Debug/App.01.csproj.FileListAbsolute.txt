@@ -1,0 +1,12 @@
+D:\Avb_project\BionicPrac\student\App.01\App.01\bin\Debug\App.01.exe.config
+D:\Avb_project\BionicPrac\student\App.01\App.01\bin\Debug\App.01.exe
+D:\Avb_project\BionicPrac\student\App.01\App.01\bin\Debug\App.01.pdb
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App.01.csprojResolveAssemblyReference.cache
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App._01.Form1.resources
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App._01.Properties.Resources.resources
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App.01.csproj.GenerateResource.Cache
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App.01.exe
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App.01.pdb
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App._01.ViewForm.resources
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App._01.UpdateFrom.resources
+D:\Avb_project\BionicPrac\student\App.01\App.01\obj\Debug\App._01.DeleteForm.resources
